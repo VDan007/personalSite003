@@ -1680,3 +1680,10 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		#work ul{
+			list-style: none;
+		}
+		#work > ul > li > a{
+			text-decoration: none;
+		}

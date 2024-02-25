@@ -300,6 +300,11 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.client{
+		display: block;
+		text-align: right;
+	}
+
 /* Form */
 
 	form {

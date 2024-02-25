@@ -899,6 +899,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		
 	}
 
 		ul.icons li {
@@ -1684,6 +1685,7 @@ input, select, textarea {
 		#work ul{
 			list-style: none;
 		}
-		#work > ul > li > a{
-			text-decoration: none;
+		#work ul li{
+			margin-top: 1rem;
 		}
+		
